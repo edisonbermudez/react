@@ -22,3 +22,4 @@ You will also see any lint errors in the console.
     3. Render a react component
 4. create /render an object + function
 5. create a clock
+6. create a custom component
